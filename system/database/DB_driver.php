@@ -30,8 +30,8 @@
  */
 class CI_DB_driver {
 
-	var $username='aondover';
-	var $password='johnver';
+	var $username='';
+	var $password='';
 	var $hostname='localhost';
 	var $database= 'hms';
 	var $dbdriver		= 'mysql';
