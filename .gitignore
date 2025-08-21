@@ -1,0 +1,39 @@
+# CodeIgniter specific
+application/cache/*
+!application/cache/index.html
+application/logs/*
+!application/logs/index.html
+
+# Database config (contains sensitive info)
+application/config/database.php
+
+# Uploads directory
+uploads/*
+!uploads/index.html
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*~
+*.tmp
+
+# PHP specific
+*.log
+vendor/
+composer.phar
+
+# XAMPP specific
+*.log
