@@ -57,8 +57,8 @@ Make sure the following directories are writable:
 
 - **Admin Panel**:
   - URL: `http://localhost/HMSCI/login`
-  - Username: admin@admin.com
-  - Password: admin123
+  - Username: your_username
+  - Password: your_password
 
 ## Features
 

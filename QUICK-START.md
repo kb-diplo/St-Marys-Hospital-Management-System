@@ -11,8 +11,10 @@
 - Or: http://localhost/HMSCI/login
 
 ## 3. Login
-- **Admin Email:** admin@admin.com
-- **Password:** admin123
+- **Admin Email:** [Set during installation]
+- **Password:** [Set during installation]
+
+**SECURITY NOTE:** Default credentials must be configured during database setup!
 
 ## 4. That's it!
 You should now see the dashboard. If you get any errors:
