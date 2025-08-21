@@ -6,6 +6,12 @@ application/logs/*
 
 # Database config (contains sensitive info)
 application/config/database.php
+application/config/config.php
+
+# Environment files
+.env
+.env.local
+.env.production
 
 # Uploads directory
 uploads/*

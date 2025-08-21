@@ -5,5 +5,7 @@ Developed by William Tuta and Lawrence Mbugua Njuguna
 **PHP Version:** 5.6 or higher
 
 **Admin Login**
-Email: admin@mail.com
-Password: Password@123
+Email: [CONFIGURE_ON_INSTALLATION]
+Password: [CONFIGURE_ON_INSTALLATION]
+
+**SECURITY NOTE**: Change default credentials immediately after installation!

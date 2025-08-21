@@ -64,7 +64,7 @@ CREATE TABLE `admin` (
 --
 
 INSERT INTO `admin` (`admin_id`, `name`, `email`, `password`, `address`, `phone`) VALUES
-(1, 'Liam Moore', 'admin@mail.com', 'Password@123', '117 Blecker Street', '7410696969');
+(1, 'System Administrator', 'admin@hospital.local', 'CHANGE_ON_INSTALL', 'St. Mary\'s Community Hospital, Nakuru, Kenya', '+254700000000');
 
 -- --------------------------------------------------------
 
